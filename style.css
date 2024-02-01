@@ -4,3 +4,31 @@ body{
 main{
     background-color: white;
 }
+nav{
+    background-color: blue;
+    height: 10%;
+}
+aside li{
+    border: 1px solid grey;
+}
+aside .container mt-4{
+    margin-top: 0px;
+}
+.felso{
+    border: 1px solid grey;
+}
+.also{
+    border: 1px solid grey;
+}
+footer{
+    background-color: blue;
+    color: beige;
+    text-align: center;
+}
+.kepek img{
+    padding: 2px;
+    border: 1px solid grey;
+}
+img{
+    width: 100%;
+}
